@@ -1,0 +1,21 @@
+{
+  "name": "demoserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "biguint-format": "^1.0.1",
+    "body-parser": "*",
+    "cors": "^2.8.5",
+    "express": "*",
+    "lz-string": "^1.4.4",
+    "mongoose": "*",
+    "mysql": "^2.17.1",
+    "node-request-queue": "^1.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
